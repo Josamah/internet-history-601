@@ -1,7 +1,4 @@
 # History of the internet IS601
 
-[History of internet layouts
+[History of internet layouts](myproject.eastus.azurecontainer.io)
 
-![img.png](img.png) f layout
-
-![img_1.png](img_1.png)![img_2.png](img_2.png) z-layout.
